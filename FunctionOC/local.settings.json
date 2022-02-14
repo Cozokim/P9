@@ -1,0 +1,15 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "UseDevelopmentStorage=true",
+    "FUNCTIONS_WORKER_RUNTIME": "python",
+    "FUNCTIONS_EXTENSION_VERSION": "~3",
+    "APPINSIGHTS_INSTRUMENTATIONKEY": "xMHg91xe0nB5DG4DyeYpXxQrpk8iy3wn/JOqG2loOnJGgrQ53sjtP9tTqCicnfaBJZP0NDHMAHoEGT/D2NUbUQ==",
+    "AzureWebJobs.HttpTrigger1.Disabled": "true"
+  },
+  "Host": {
+    "LocalHttpPort": 7071,
+    "CORS": "*",
+    "CORSCredentials": false
+  }
+}
